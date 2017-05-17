@@ -1,4 +1,4 @@
-- Project made in CS102 course in Bilkent University.
+Project made in Bilkent University for CS102 course in 2015 Spring.
 
 - You should have jdk 1.8(or higher) to run this project.
 
